@@ -1,0 +1,53 @@
+[
+    {
+      "id": 0,
+      "dogName": "Golden Retriever",
+      "image": "🥑",
+      "Origin": "Scotland",
+      "life span": "10-12",
+      "price": "500",
+      "ferocious": false,
+      "description": "The Golden Retriever is a confident, smart, kind, and loyal dog. Neither aggressive nor timid, the Golden Retriever is extremely patient, which makes them a perfect match for kids. While the breed does need a lot of exercise, they love of play (retrieving games are their favorite—for example, your Golden might love playing with dog flyer disc toys), which makes this an easy goal to achieve. You’ll often find that the fun-loving Golden Retriever is affectionate and obedient, as well, meaning your kids will fall in love instantly. Proper care for their glorious golden coats requires twice weekly brushing, and while the breed is adapted to live outdoors, they’d really prefer to be indoors, with their humans, most of the time."
+    },
+    {
+        "id": 1,
+        "dogName": "Labrador Retriever",
+        "image": "🥑",
+        "Origin": "Canada",
+        "life span": "12-14",
+        "price": "600",
+        "ferocious": false,
+        "description": "This is one of the most popular dog breeds, and for good reason—the Labrador Retriever is playful, patient, loving, protective, and reliable. Another perk—Labs are highly intelligent, and take well to training. They require a lot of exercise (they love swimming!), so be sure your family is up for the challenge, and a little extra room for them to run around and play in would be optimal. Whether it’s the black, chocolate or yellow variety, you’ll find that all Labradors share the same sense of stamina, strength and obedience that makes them such a popular breed. They are affable dogs that get along well with other animals and pretty much everyone they meet, plus their short coats means they only really need a weekly combing to keep them clean and healthy"
+      },
+      {
+        "id": 2,
+        "dogName": "Golden Retriever",
+        "image": "🥑",
+        "Origin": "Scotland",
+        "life span": "10-12",
+        "price": "500",
+        "ferocious": false,
+        "description": "The Golden Retriever is a confident, smart, kind, and loyal dog. Neither aggressive nor timid, the Golden Retriever is extremely patient, which makes them a perfect match for kids. While the breed does need a lot of exercise, they love of play (retrieving games are their favorite—for example, your Golden might love playing with dog flyer disc toys), which makes this an easy goal to achieve. You’ll often find that the fun-loving Golden Retriever is affectionate and obedient, as well, meaning your kids will fall in love instantly. Proper care for their glorious golden coats requires twice weekly brushing, and while the breed is adapted to live outdoors, they’d really prefer to be indoors, with their humans, most of the time."
+      },
+      {
+        "id": 3,
+        "dogName": "Golden Retriever",
+        "image": "🥑",
+        "Origin": "Scotland",
+        "life span": "10-12",
+        "price": "500",
+        "ferocious": false,
+        "description": "The Golden Retriever is a confident, smart, kind, and loyal dog. Neither aggressive nor timid, the Golden Retriever is extremely patient, which makes them a perfect match for kids. While the breed does need a lot of exercise, they love of play (retrieving games are their favorite—for example, your Golden might love playing with dog flyer disc toys), which makes this an easy goal to achieve. You’ll often find that the fun-loving Golden Retriever is affectionate and obedient, as well, meaning your kids will fall in love instantly. Proper care for their glorious golden coats requires twice weekly brushing, and while the breed is adapted to live outdoors, they’d really prefer to be indoors, with their humans, most of the time."
+      },
+      {
+        "id": 4,
+        "dogName": "Golden Retriever",
+        "image": "🥑",
+        "Origin": "Scotland",
+        "life span": "10-12",
+        "price": "500",
+        "ferocious": false,
+        "description": "The Golden Retriever is a confident, smart, kind, and loyal dog. Neither aggressive nor timid, the Golden Retriever is extremely patient, which makes them a perfect match for kids. While the breed does need a lot of exercise, they love of play (retrieving games are their favorite—for example, your Golden might love playing with dog flyer disc toys), which makes this an easy goal to achieve. You’ll often find that the fun-loving Golden Retriever is affectionate and obedient, as well, meaning your kids will fall in love instantly. Proper care for their glorious golden coats requires twice weekly brushing, and while the breed is adapted to live outdoors, they’d really prefer to be indoors, with their humans, most of the time."
+      }
+  ]
+  
